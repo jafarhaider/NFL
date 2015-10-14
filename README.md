@@ -8,3 +8,7 @@ Sports statistics are season-specific. Rule changes, schedule, injuries, and oth
 So, I took the passing statistics and took a z-score for each team by season. And then I made line graphs. Some of the figures are very self-evident. Others seem more illuminating and, at the very least, interesting. Here's a preview: playoff teams tend to have a passing efficiency of at least 1 standard deviation above the mean.
 
 My to do list includes: make my figures and results easily accessible, writing more about my findings, and adding in rushing offense, passing defense, and rushing defense.
+
+
+Can you figure out when Aaron Rodgers replaced Brett Favre as Green Bay's starting QB?
+![Imgur](http://i.imgur.com/EVVxn7L.png)
