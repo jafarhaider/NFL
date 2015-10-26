@@ -15,7 +15,7 @@ Can you figure out when Aaron Rodgers replaced Brett Favre as Green Bay's starti
 
 TO DO: 
 
-1. Refactor code
+1. Refactor code.
 
 2. Adding in rushing offense, passing defense, and rushing defense.
 
