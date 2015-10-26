@@ -19,7 +19,7 @@ TO DO:
 
 2. Adding in rushing offense, passing defense, and rushing defense.
 
-3. Make my figures and results easily accessible.
+3. Make figures and results easily accessible.
 
 4. Write conclusions. 
 
